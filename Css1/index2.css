@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+/* p{
+    color: aqua;
+    background-color: black;
+}
+#id{
+    color: yellow;
+} */
+
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.button{
+   
+    width: 150px;
+    padding: 5px 20px;
+    color: white;
+    border-radius: 5px;
+
+}
+.new{
+    background-color: green;
+}
+.active{
+    background-color: blue;
+}
+.inactive{
+    background-color: brown;
+}
+
+#parent>div>h1{
+    color: brown;
+
+}
+#parent>div>div>h3{
+    color: blue;
+}
+#parent p{
+    color: rgb(50, 255, 4);
+    background-color: black;
+}

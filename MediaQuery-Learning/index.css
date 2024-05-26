@@ -1,0 +1,13 @@
+#id1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+@media screen and (orientation:landscape){
+    #id1{
+        background-color: blue;
+
+    }
+
+}
